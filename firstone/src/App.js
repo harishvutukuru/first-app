@@ -5,13 +5,9 @@ import Grretmessages  from './components/Grretmessages';
 function App() {
   return (
     <div className="App">
-       <h1>
-         <Grretmessages>
-
-         </Grretmessages>
-         <Grretmessages></Grretmessages>
-         <Grretmessages></Grretmessages>
-       </h1>
+       <button className ="btn btn-success">
+        button
+       </button>
     </div>
   );
 }
